@@ -13,7 +13,7 @@ This project implements a system to import, process, and export employee salary 
 
 ## Requirements
 
-### Python Libraries
+### Python Libraries (Installing Pandas usually installed the rest but adding these just to be thorough)
 - pandas
 - numpy
 - zipfile
