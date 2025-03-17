@@ -46,7 +46,7 @@ After running the Python notebook:
 
 ```
 .
-├── employee-data-processor.ipynb    # Main Jupyter Notebook with all Python code
+├── salaries.ipynb    # Main Jupyter Notebook with all Python code
 ├── unzip_and_display_employee.R     # R script for Task 6
 ├── Employee_Profile.zip             # Generated zip file with employee data
 ├── Employee_Profile/                # Generated directory
